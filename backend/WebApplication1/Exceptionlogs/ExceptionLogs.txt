@@ -1,0 +1,12 @@
+01/01/0001 00:00:00 ~ Getempbyid ~ ID parameter is required for ActionType 2;
+01/01/0001 00:00:00 ~ Getempbyid ~ ID parameter is required for ActionType 2;
+01/01/0001 00:00:00 ~ RegAdmin ~ Procedure or function 'Admin_Details' expects parameter '@AdminId', which was not supplied.;
+01/01/0001 00:00:00 ~ RegAdmin ~ Procedure or function 'Admin_Details' expects parameter '@AdminId', which was not supplied.;
+01/01/0001 00:00:00 ~ RegAdmin ~ Procedure or function 'Admin_Details' expects parameter '@AdminId', which was not supplied.;
+01/01/0001 00:00:00 ~ RegAdmin ~ @States is not a parameter for procedure Admin_Details.;
+01/01/0001 00:00:00 ~ RegAdmin ~ @States is not a parameter for procedure Admin_Details.;
+01/01/0001 00:00:00 ~ RegAdmin ~ @States is not a parameter for procedure Admin_Details.;
+01/01/0001 00:00:00 ~ RegAdmin ~ @States is not a parameter for procedure Admin_Details.;
+01/01/0001 00:00:00 ~ RegAdmin ~ Invalid object name 'Tailors'.;
+01/01/0001 00:00:00 ~ GetAllAdmins ~ Procedure or function 'Admin_Details' expects parameter '@CategoryId', which was not supplied.;
+01/01/0001 00:00:00 ~ RegAdmin ~ Email already exists;
